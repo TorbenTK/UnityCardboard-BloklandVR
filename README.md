@@ -6,6 +6,8 @@ Unity Cardboard open source platformer project.
 
 None of the code is copyrighted: every snippet is open source. So feel free to use it yourself ;)
 
+> NOTE: While most of the code and annotations are in English, names and in game instructions are in Dutch.
+
 GOAL OF THIS REPOSITORY
 ==================================================
 The code was written for a two week spanning 'hackathon'. The goal was for students to show their skills and to demonstrate what can be made in the span of two weeks.
