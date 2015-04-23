@@ -15,9 +15,7 @@ I wanted to experiment with Google Cardboard, and the powers of Virtual Reality.
 To give you an idea of the costs of this project (excluding workhours, SmartPhone and consumption):
 
 1) Material costs: Google Cardboard, about €10 ($15).
-
 2) Programs: Unity 4.6, Android SDK, Android Studio, Cardboard SDK. Free.
-
 3) Code: multiple websites, tutorial videos, old code, SDK's including examples. Free.
 
 
