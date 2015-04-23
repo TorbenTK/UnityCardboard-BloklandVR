@@ -6,7 +6,6 @@ Unity Cardboard open source platformer project.
 
 None of the code is copyrighted: every snippet is open source. So feel free to use it yourself ;)
 
-==================================================
 GOAL OF THIS REPOSITORY
 ==================================================
 The code was written for a two week spanning 'hackathon'. The goal was for students to show their skills
@@ -24,7 +23,6 @@ To give you an idea of the costs of this project (excluding workhours, SmartPhon
 
 So yes. About fifteen bucks will get you this far. A cheap way to develop!
 
-==================================================
 IS THE CODE COMPLETE?
 ==================================================
 The code runs without any errors or warnings. However, the code was written in two weeks, so certain 
@@ -35,7 +33,6 @@ breaking.
 I am currently not planning to update the code with an improved version. However, if I do have plans, I
 will create a new repository to leave this one intact for anyone who has recently used the code.
 
-==================================================
 RUNNING CODE
 ==================================================
 REQUIREMENTS:
