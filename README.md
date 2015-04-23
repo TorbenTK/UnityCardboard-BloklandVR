@@ -28,6 +28,10 @@ I am currently not planning to update the code with an improved version. However
 RUNNING CODE
 ==================================================
 REQUIREMENTS:
-> Coming very soon.
+> Unity (4.6+), Android SDK (Android 4.1.2 and higher is required), Google Cardboard SDK
 
-This is a Unity Project. Download Unity 4.6 or above, open the project, and then use Build & Settings to construct an .APK for any Cardboard compatible smart device. You can also test-run the project in Unity itself: hold ALT and click while playing to turn off Virtual Reality.
+To get the code to run, download the prerequisities listed above. Once you've done that, install everything. Also import the downloaded API's to Unity, otherwise you will face only error messages.
+
+Open the project, and then use Build & Settings to construct an .APK for any Cardboard compatible smart device. When doing that, do not forget to set the Orientation to 'Landscape' in the Settings tab! Also, don't forget to list your company/your name in the AndroidManifest.
+
+You can also test-run the project in Unity itself: hold ALT and click while playing to turn off Virtual Reality.
