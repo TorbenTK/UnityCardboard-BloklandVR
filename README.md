@@ -7,7 +7,8 @@ Unity Cardboard open source platformer project.
 None of the code is copyrighted: every snippet is open source. So feel free to use it yourself ;)
 
 ==================================================
-GOAL OF THIS REPOSITORY:
+GOAL OF THIS REPOSITORY
+==================================================
 The code was written for a two week spanning 'hackathon'. The goal was for students to show their skills
 and to demonstrate what can be made in the span of two weeks.
 
@@ -24,7 +25,8 @@ To give you an idea of the costs of this project (excluding workhours, SmartPhon
 So yes. About fifteen bucks will get you this far. A cheap way to develop!
 
 ==================================================
-IS THE CODE COMPLETE?:
+IS THE CODE COMPLETE?
+==================================================
 The code runs without any errors or warnings. However, the code was written in two weeks, so certain 
 aspects of the code are written twice or could've been simplified. There are a few bugs and glitches while 
 running the project - either on Unity or on an Android SmartPhone - but they are minor, and not game
@@ -34,8 +36,9 @@ I am currently not planning to update the code with an improved version. However
 will create a new repository to leave this one intact for anyone who has recently used the code.
 
 ==================================================
-RUNNING CODE:
-Requirements:
+RUNNING CODE
+==================================================
+REQUIREMENTS:
 > Coming very soon.
 
 
